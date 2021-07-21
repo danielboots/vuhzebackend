@@ -75,5 +75,10 @@ export default {
         layout: "tags",
       },
     },
+    {
+      name: "featured",
+      title: "Featured",
+      type: "boolean",
+    },
   ],
 };
